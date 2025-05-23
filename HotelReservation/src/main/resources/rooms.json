@@ -1,0 +1,42 @@
+[
+  {
+    "roomNumber": 101,
+    "roomType": "Deluxe",
+    "pricePerNight": 500,
+    "cancellationFee": 500,
+    "maximumOccupancy": 3,
+    "amenities": "Ultra all Inclusive"
+  },
+  {
+    "roomNumber": 102,
+    "roomType": "Double",
+    "pricePerNight": 300,
+    "cancellationFee": 300,
+    "maximumOccupancy": 2,
+    "amenities": "All Inclusive"
+  },
+  {
+    "roomNumber": 201,
+    "roomType": "Single",
+    "pricePerNight": 200,
+    "cancellationFee": 200,
+    "maximumOccupancy": 1,
+    "amenities": "Breakfast included"
+  },
+  {
+    "roomNumber": 202,
+    "roomType": "Deluxe",
+    "pricePerNight": 500,
+    "cancellationFee": 500,
+    "maximumOccupancy": 3,
+    "amenities": "Ultra all Inclusive"
+  },
+  {
+    "roomNumber": 203,
+    "roomType": "Single",
+    "pricePerNight": 200,
+    "cancellationFee": 200,
+    "maximumOccupancy": 1,
+    "amenities": "Breakfast included"
+  }
+]
